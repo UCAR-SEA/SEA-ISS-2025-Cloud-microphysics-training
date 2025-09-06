@@ -2,7 +2,7 @@
 
 [![JupyterBook](https://github.com/UCAR-SEA/SEA-ISS-Template/actions/workflows/deploy.yml/badge.svg)](https://github.com/UCAR-SEA/SEA-ISS-Template/actions/workflows/deploy.yml)
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-green?style=flat-square&logo=Jupyter&color=green)](https://jupyter.org/try)
-![Static Badge](https://img.shields.io/badge/DOI-10.XXXXX%2Fnnnnn-blue)
+[![Static Badge](https://img.shields.io/badge/DOI-10.25344/S4QS3J-blue)](https://doi.org/10.25344/S4QS3J)
 
 **Authors:** [Damian Rouson](https://orcid.org/0000-0002-2344-868X), [Zhe Bai](https://orcid.org/0000-0002-3092-0903), [Dan Bonachea](https://orcid.org/0000-0002-0724-9349), [Baboucarr Dibba](https://orcid.org/0009-0008-0479-3948), [Ethan Gutmann](https://orcid.org/0000-0003-4077-3430), [Katherine Rasmussen](https://orcid.org/0000-0001-7974-1853), [David Torres](https://orcid.org/0000-0003-2469-5284), [Jordan Welsman](https://orcid.org/0000-0002-2882-594X), [ Yunhao Zhang](https://orcid.org/0009-0009-3182-9296)
 
